@@ -60,7 +60,7 @@
     "training_image_repeats_per_epoch": 1,
     "training_write_csv_every": 500,
     "training_xattention_optimizations": false,
-    "sd_model_checkpoint": "BloodOrangeMix.safetensors [79a1edf6af]",
+    "sd_model_checkpoint": "AbyssOrangeMix2_nsfw.safetensors [0873291ac5]",
     "sd_checkpoint_cache": 0,
     "sd_vae": "orangemix.vae.pt",
     "sd_vae_as_default": false,
