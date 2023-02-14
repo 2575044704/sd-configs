@@ -6,7 +6,6 @@
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
         "Default",
-        "girl"
     ],
     "txt2img/Sampling method/visible": true,
     "txt2img/Sampling method/value": "DPM++ 2M Karras",
